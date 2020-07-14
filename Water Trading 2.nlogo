@@ -2,7 +2,6 @@ extensions[gis csv]               ; Extensions for Gis data and txt
 globals [compensation water profit my-neighbors UDAs]
 breed [farmers farmer]
 breed [farms farm]
-breed [provas prova]
 
 ;  water-irr-data            ; Water for irrigation, like a well for every farmer
 ;  river-data                ; Dataset of rivers, raster
